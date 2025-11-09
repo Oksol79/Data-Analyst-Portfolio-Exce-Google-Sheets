@@ -17,7 +17,7 @@ Each project showcases my analytical approach and drive to transform data into a
 
 ## Projects
 ### Project 1: Sales Dynamics & ABC Analysis
-[View Project](https://docs.google.com/spreadsheets/d/1XwVqxflBjBTxOKZEXcjD0lUhno0R3eZV/edit?gid=333149299#gid=333149299)  
+[View Project]()  
 
 In this project, I analyzed and visualized sales dynamics by category, product, and country, and conducted ABC analysis using the Pareto principle. For my work, I used three tables from a dataset imported into Google Sheets:
  - Events - information about orders and sales.
