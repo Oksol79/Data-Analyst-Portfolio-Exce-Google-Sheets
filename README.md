@@ -17,7 +17,7 @@ Each project showcases my analytical approach and drive to transform data into a
 
 ## Projects
 ### Project 1: Sales Dynamics & ABC Analysis
-[View Project](https://docs.google.com/spreadsheets/d/19D248XJDIv2m8H4hLI2-7BQXIxntc26tJenONCvvvPQ/edit?gid=0#gid=0)  
+[View Project](https://docs.google.com/spreadsheets/d/1XwVqxflBjBTxOKZEXcjD0lUhno0R3eZV/edit?usp=sharing&ouid=104269468961255412319&rtpof=true&sd=true)  
 
 In this project, I analyzed and visualized sales dynamics by category, product, and country, and conducted ABC analysis using the Pareto principle. For my work, I used three tables from a dataset imported into Google Sheets:
  - Events - information about orders and sales.
@@ -57,8 +57,8 @@ The periods with the highest sales volumes were determined. Analytical recommend
 <img width="1898" height="867" alt="image" src="https://github.com/user-attachments/assets/e596379f-6445-4de7-a047-8abe077416bc" />
 
 ### Project 2: FCA based Ontology for Intelligent Diagnostics
-[View Project]()  
-[Link to article](https://ieeexplore.ieee.org/document/6662995)
+[View Project](https://docs.google.com/spreadsheets/d/1sRrtwN9uKe3z_onr-Pv6Q5D4KiA5WZ1l/edit?usp=sharing&ouid=104269468961255412319&rtpof=true&sd=true)  
+[Publication](https://ieeexplore.ieee.org/document/6662995)
 
 This project presents an ontology for the domain "Intelligent Diagnostics of Computer Systems", developed based on expert knowledge and evaluations.
 The ontology integrates concepts from two interconnected fields:
